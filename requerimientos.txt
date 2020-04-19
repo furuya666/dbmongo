@@ -1,5 +1,5 @@
 ﻿Niños En Adopcion
-1 El administrador podra registrar a todos los niños con todos sus datoas generales.
+1 El administrador podra registrar a todos los niños con todos sus datos generales.
 2 El usuario podra ver la lista de todos los niños en adopcion.
 3 El usuario podra programar una cita para conocer al niño en adopcion.
-4 El administrador podra ver todas las citas programadas.
+4 El administrador podra ver todas las citas programadas que tiene pendeientes.
